@@ -1503,6 +1503,7 @@ input, select, textarea {
 		border: solid 1px #c43d2f;
 		box-shadow: inset 0px 0px 0px 1px #CF3A33;
 		margin: 10px 0;
+		cursor: pointer;
 	}
 
 		.button:hover {
